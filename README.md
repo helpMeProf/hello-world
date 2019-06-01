@@ -1,5 +1,4 @@
-# hello-world
-the first repository for test
+This github is for the team projeact.
 
-I'm the university student who is majoring Economics and Computer science.
-Nice to see you guys!
+We are planning to make the 'Team-project program'.
+
